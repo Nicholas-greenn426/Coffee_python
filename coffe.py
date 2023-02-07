@@ -6,8 +6,8 @@ def coffee_bot(order_number):
   
 
 def print_message(size, coffee, order_number):
-    print("You have ordered a " + size + " " + coffee + " stand there and shut the fuck up it will be out shortly!")
-    print("Your order number is :> 420::69:: " + str(order_number))
+    print("You have ordered a " + size + " " + coffee + " your coffee will be out shortly!!!!!!!!!")
+    print("Your order number is :>" + str(order_number))
 
 def get_size():
   size = "nothing"
